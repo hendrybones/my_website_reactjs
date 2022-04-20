@@ -3,7 +3,7 @@ import './Contact.css';
 import contactImg from "../../assets/Home/hire.jpg";
 function Contact() {
     return (
-        <div className="contact component__space" id="Contact">
+        <div className="contact component__space" id="contact">
             <div className="row">
                 <div className="col__2">
                     <div className="contact__box">

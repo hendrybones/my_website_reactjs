@@ -5,7 +5,7 @@ import Footer from "./footer/Footer"
 import "./Home.css"
 export default function Home() {
     return (
-        <div className="home-container">
+        <div className="home-container" id="home">
             <Header/>
             <Profile/>
             <Footer/>
