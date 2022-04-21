@@ -1,20 +1,14 @@
 {
   "files": {
-    "main.css": "/my_website_reactjs%20/static/css/main.e1804295.css",
-    "main.js": "/my_website_reactjs%20/static/js/main.36bfd7e4.js",
-    "static/js/787.5a806b72.chunk.js": "/my_website_reactjs%20/static/js/787.5a806b72.chunk.js",
+    "main.css": "/my_website_reactjs%20/static/css/main.e49fc9ae.css",
+    "main.js": "/my_website_reactjs%20/static/js/main.e230c371.js",
     "static/media/about.JPG": "/my_website_reactjs%20/static/media/about.a8606e1e62f54ed46313.JPG",
-    "static/media/bg.jpg": "/my_website_reactjs%20/static/media/bg.6c3b986269492e97bf22.jpg",
-    "static/media/bonesProfile.jpg": "/my_website_reactjs%20/static/media/bonesProfile.3c6ebccb75a620d697ac.jpg",
-    "static/media/hire.jpg": "/my_website_reactjs%20/static/media/hire.db441d2d613522a1f56b.jpg",
-    "static/media/logo.PNG": "/my_website_reactjs%20/static/media/logo.34cdc8e63a963c994410.PNG",
     "index.html": "/my_website_reactjs%20/index.html",
-    "main.e1804295.css.map": "/my_website_reactjs%20/static/css/main.e1804295.css.map",
-    "main.36bfd7e4.js.map": "/my_website_reactjs%20/static/js/main.36bfd7e4.js.map",
-    "787.5a806b72.chunk.js.map": "/my_website_reactjs%20/static/js/787.5a806b72.chunk.js.map"
+    "main.e49fc9ae.css.map": "/my_website_reactjs%20/static/css/main.e49fc9ae.css.map",
+    "main.e230c371.js.map": "/my_website_reactjs%20/static/js/main.e230c371.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1804295.css",
-    "static/js/main.36bfd7e4.js"
+    "static/css/main.e49fc9ae.css",
+    "static/js/main.e230c371.js"
   ]
 }
