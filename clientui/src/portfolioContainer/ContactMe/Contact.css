@@ -1,5 +1,6 @@
 .contact{
-  background-color: #191919;
+  /* background-color: #191919; */
+  background-image: url("../../assets//Home/bg.jpg");
 }
 
 h1.hire__text {
@@ -8,7 +9,7 @@ h1.hire__text {
 p.hire__text{
   font-size: 18px;
   line-height: 30px;
-  color: rgba(29,29,36,.75);
+  color: #1d1d24bf;
   font-weight: 400;
 }
 input.contact{

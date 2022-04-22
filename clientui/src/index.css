@@ -32,13 +32,13 @@ code {
   height: 6px !important;
 }
 body ::-webkit-scrollbar-thumb {
-  background-color: hsla(0, 0%, 100%, 0.16);
+  background-color: hsla(0, 0%, 100%, 0.89);
 }
 ::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(240, 234, 234, 0.897);
 }
 ::-webkit-scrollbar-track{
-  background: hsla(0, 0%, 100%, 0.1);
+  background: hsla(0, 0%, 100%, 0.884);
 }
 .btn {
   border-radius: 50px;
@@ -55,12 +55,12 @@ body ::-webkit-scrollbar-thumb {
   color: white;
   border: 2px solid linen;
   font-size: 12px;
-  background-color: #1f2235;
+  background-color: hsl(225, 40%, 98%);
 }
 .primary-btn:hover{
   color: aliceblue;
   border: 2px solid #ff5823;
-  background-color: #1f2235;
+  background-color: hsl(240, 7%, 97%);
 }
 .highlighted-btn{
   color: white;

@@ -2,6 +2,9 @@
 .modal-blog.overlay {
   overflow: scroll;
 }
+.blog{
+background-image: url("../../assets/Home/shape.jpg");
+}
 .modal-blog.modal .modal-content {
   position: relative;
   top: 10%;

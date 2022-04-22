@@ -1,10 +1,10 @@
-/* .features{
+.features{
     display: flex ;
     flex-direction: column;
     justify-content: space-between;
     min-height: 670 ;
-    background-image: url("../../assets/Home/t.jpg");
-} */
+    background-image: url("../../assets/Home/name.jpg");
+}
 
 .features .box{
     padding: 50px;

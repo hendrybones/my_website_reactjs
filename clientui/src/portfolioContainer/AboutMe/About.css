@@ -1,5 +1,6 @@
 .about{
-    background: #191919;
+    /* background: rgb(16, 16, 17); */
+    background-image: url("../../assets//Home/bg.jpg");
 }
 img.about__img{
     border-radius: 10px;

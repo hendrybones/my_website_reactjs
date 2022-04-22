@@ -1,10 +1,11 @@
 import React from "react";
 import footerImg from "../../assets/Home/logo.PNG";
+import "./Footer.css"
 function Footer() {
   return (
     <div
       className="footer d__flex align__items__center justify__content__space__between pz-10"
-      style={{ padding: "10px 20px", zIndex: "100" }}
+      style={{ padding: "10px 20px", zIndex: "100" }} id="footer"
     >
       {/* <img src={footerImg} alt="" className="footer__img pointer" /> */}
       <span

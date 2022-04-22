@@ -1,5 +1,5 @@
 {
-  "homepage": "https://hendrybones.github.io/my_website_reactjs ",
+ 
   "name": "clientui",
   "version": "0.1.0",
   "private": true,
@@ -9,12 +9,13 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.0",
     "react-typical": "^0.1.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
